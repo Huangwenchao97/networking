@@ -6,7 +6,6 @@
 # 4.关闭TCP连接
 
 from socket import *
-import time
 
 
 def receiveFromServer():
