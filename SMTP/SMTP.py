@@ -41,7 +41,7 @@ addr = 'bTE4NzkyNTU2MzYxQDE2My5jb20=\r\n'
 # 用户名的base64编码
 username = 'SFdjaGFv\r\n'
 # 授权码的base64编码
-passwd = 'ZG9vY3RlcjAwNw==\r\n'
+passwd = '*****\r\n'
 
 # 登录服务
 clientSocket.sendall(loginCommand.encode())
